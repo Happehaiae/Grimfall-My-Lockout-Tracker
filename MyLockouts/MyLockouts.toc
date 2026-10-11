@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: My Lockouts Tracker
+## Notes: Lists active dungeon lockouts with visual UI, minimap button, and group cross-referencing.
+## Author: You
+## Version: 2.1
+## SavedVariables: MyLockoutsDB
+
+MyLockouts.lua
